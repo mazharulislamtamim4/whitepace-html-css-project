@@ -1,0 +1,14 @@
+:root{
+	--body-width: 1920px;
+	--container: 1480px;
+	--dm-sans: 'DM Sans', sans-serif;
+	--inter: 'Inter', sans-serif;
+    --yellow:#FFE492;
+    --blue:#4F9CF9;
+    --white: #fff;
+    --black: #000;
+    --hero-bg: url('../media/bg element.jpg');
+    --management-bg: url('../media/bg spider.png');
+    --box-smooth-shadow: 0 0 20px -6px #FFE492;
+    --btn-border:1px solid #FFE492 ;
+}
